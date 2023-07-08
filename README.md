@@ -1,5 +1,5 @@
 # Jammming
-Jamming is a web-based music platform that allows users to search for songs, create playlists, and save them to their Spotify accounts. This README provides an overview of the project, including its purpose, technologies used, features, and future work.
+Jammming is a web-based music platform that allows users to search for songs, create playlists, and save them to their Spotify accounts. This README provides an overview of the project, including its purpose, technologies used, features, and future work.
 
 ## Purpose
 

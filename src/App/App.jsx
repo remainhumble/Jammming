@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <h1>Jammming</h1>
+      <h1>Ja<span className="ems">mmm</span>ing</h1>
       <SearchBar onSearch={search} />
       <div className="App-playlist">
         <SearchResults searchResults={searchResults} onAdd={addToPlaylist} />

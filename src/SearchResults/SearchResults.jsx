@@ -2,6 +2,7 @@ import React from "react";
 import Track from "../Track/Track";
 
 function SearchResults({ searchResults, onAdd }) {
+ 
   return (
     <div className="SearchResults">
       <h2>Search Results</h2>

@@ -9,6 +9,7 @@ function SearchBar({ onSearch }) {
 
   return (
     <div className="SearchBar">
+<div>Search Bar</div>;
       <input
         placeholder="Enter a song, album, or artist"
         value={searchTerm}

@@ -40,8 +40,6 @@ Jammming has the potential for further enhancements and improvements. Here are s
 
 * **Advanced Search Filters**: Expand the search functionality to include advanced filters, such as genre, release date, or popularity, to provide more refined search results.
 
-* **Enhanced UI/UX**: Improve the user interface and user experience through enhanced visual design, responsive layout, and intuitive interactions.
-
 * **Offline Mode**: Implement offline support, allowing users to access their saved playlists and listen to music even when not connected to the internet.
 
 These are just a few possibilities for future development, and the project can be expanded and customised based on specific requirements and user feedback.

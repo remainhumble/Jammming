@@ -20,29 +20,29 @@ Jammming is built using the following technologies:
 
 Jammming offers the following key features:
 
-1. **Search**: Users can enter a song, album, or artist in the search bar to retrieve relevant search results from the Spotify catalogue.
+* **Search**: Users can enter a song, album, or artist in the search bar to retrieve relevant search results from the Spotify catalogue.
 
-2. **Search Results**: The application displays the search results, including track information such as name, artist, and album. Users can browse through the results and select tracks to add to their playlists.
+* **Search Results**: The application displays the search results, including track information such as name, artist, and album. Users can browse through the results and select tracks to add to their playlists.
 
-3. **Playlist Management**: Users can create and manage personalized playlists by adding or removing tracks from the displayed search results. The playlist dynamically updates as tracks are added or removed.
+* **Playlist Management**: Users can create and manage personalized playlists by adding or removing tracks from the displayed search results. The playlist dynamically updates as tracks are added or removed.
 
-4. **Save to Spotify**: Users can save a playlist directly to their Spotify accounts using the "Save to Spotify" button once a playlist is created or modified. This feature requires authentication and authorization with Spotify.
+* **Save to Spotify**: Users can save a playlist directly to their Spotify accounts using the "Save to Spotify" button once a playlist is created or modified. This feature requires authentication and authorization with Spotify.
 
 ## Future Work
 
 Jammming has the potential for further enhancements and improvements. Here are some ideas for future work:
 
-1. **User Authentication**: Implement user authentication and user-specific playlists to provide a personalized experience.
+* **User Authentication**: Implement user authentication and user-specific playlists to provide a personalized experience.
 
-2. **Playlist Collaboration**: Enable users to share and collaborate on playlists with other users, allowing for collaborative music discovery and curation.
+* **Playlist Collaboration**: Enable users to share and collaborate on playlists with other users, allowing for collaborative music discovery and curation.
 
-3. **Additional Music Services**: Integrate with other music streaming services, such as Apple Music or Deezer, to offer a wider range of music options for users.
+* **Additional Music Services**: Integrate with other music streaming services, such as Apple Music or Deezer, to offer a wider range of music options for users.
 
-4. **Advanced Search Filters**: Expand the search functionality to include advanced filters, such as genre, release date, or popularity, to provide more refined search results.
+* **Advanced Search Filters**: Expand the search functionality to include advanced filters, such as genre, release date, or popularity, to provide more refined search results.
 
-5. **Enhanced UI/UX**: Improve the user interface and user experience through enhanced visual design, responsive layout, and intuitive interactions.
+* **Enhanced UI/UX**: Improve the user interface and user experience through enhanced visual design, responsive layout, and intuitive interactions.
 
-6. **Offline Mode**: Implement offline support, allowing users to access their saved playlists and listen to music even when not connected to the internet.
+* **Offline Mode**: Implement offline support, allowing users to access their saved playlists and listen to music even when not connected to the internet.
 
 These are just a few possibilities for future development, and the project can be expanded and customised based on specific requirements and user feedback.
 
